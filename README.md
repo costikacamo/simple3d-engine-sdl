@@ -44,7 +44,7 @@ The engine can be customized by modifying the constants in the `Config` namespac
 
 ## License
 
-[Your chosen license]
+MIT License
 
 ## Contributing
 
