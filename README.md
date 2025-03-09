@@ -69,7 +69,7 @@ brew install cmake sdl2
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/raycasting-engine.git
+git clone https://github.com/costikacamo/simple3d-engine-sdl
 cd raycasting-engine
 
 # Create build directory
